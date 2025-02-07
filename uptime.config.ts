@@ -23,7 +23,7 @@ const workerConfig = {
       // `name` is used at status page and callback message
       name: 'Website',
       // `method` should be a valid HTTP Method
-      method: 'POST',
+      method: 'GET',
       // `target` is a valid URL
       target: 'https://www.arun.blog',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
