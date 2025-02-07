@@ -22,7 +22,7 @@ export default function Header() {
       <Container size="md" className={classes.inner}>
         <div>
           <a href="https://github.com/lyc8503/UptimeFlare" target="_blank">
-            <Text size="xl" span>
+            <Text size="xl" span classNam="mr-2">
               🕒
             </Text>
             <Text
