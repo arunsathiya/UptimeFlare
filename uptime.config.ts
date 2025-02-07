@@ -21,7 +21,7 @@ const workerConfig = {
       // `id` should be unique, history will be kept if the `id` remains constant
       id: 'arun',
       // `name` is used at status page and callback message
-      name: 'Website',
+      name: 'Arun\'s website',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
